@@ -34,15 +34,7 @@ Bem-vindo ao **Jogo da Forca**, um clássico jogo de adivinhação de palavras f
 *   **Contador de chances:** Acompanhe suas chances restantes para planejar suas próximas jogadas com sabedoria. 🤔
 *   **Feedback visual:** O jogo fornece feedback visual claro sobre as letras corretas e incorretas, ajudando você a tomar decisões informadas. 👀
 
-Jogo da Forca - Versão 2
-
-Como Executar
-
-Para rodar o jogo, utilize o seguinte comando:
-
-python jogo_forca_v2.py
-
-Versão 2 (com melhorias visuais)
+## Jogo da Forca - Versão 2
 
 A nova versão do Jogo da Forca traz aprimoramentos visuais e funcionais para tornar a experiência mais imersiva e intuitiva.
 
@@ -52,6 +44,16 @@ Versão 2 inclui:
 ✅ Lista de letras tentadas
 ✅ Mensagens de erro mais descritivas
 ✅ Interface mais amigável
+
+Como Executar
+
+Para rodar o jogo, utilize o seguinte comando:
+
+python jogo_forca_v2.py
+
+Versão 2 (com melhorias visuais)
+
+
 
 Funcionalidades
 
