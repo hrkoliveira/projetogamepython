@@ -40,7 +40,7 @@ Sinta-se à vontade para contribuir com este projeto! Se você tiver sugestões 
 
 🔧 Tecnologias usadas:
 
-🐍 Python 3.x
+🐍 Python 3.10.16
 
 🔀 Biblioteca random
 
