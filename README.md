@@ -41,8 +41,11 @@ A nova versão do Jogo da Forca traz aprimoramentos visuais e funcionais para to
 Versão 2 inclui:
 
 ✅ Display da forca em diferentes estágios
+
 ✅ Lista de letras tentadas
+
 ✅ Mensagens de erro mais descritivas
+
 ✅ Interface mais amigável
 
 Como Executar
@@ -60,13 +63,18 @@ Funcionalidades
 Versão 1
 
 ✔️ Lista de palavras variada
+
 ✔️ Contador de chances básico
+
 ✔️ Verificação de letras repetidas
 
 Versão 2 (Melhorada)
 
+
 🔹 Sistema visual completo com 6 estágios da forca 🖼️
+
 🔹 Histórico de tentativas visível ✅
+
 🔹 Feedback contextualizado:
 
 Aviso sobre letras repetidas
@@ -74,6 +82,7 @@ Aviso sobre letras repetidas
 Destaque para letras corretas
 
 Representação gráfica do progresso
+
 🔹 Código refatorado com:
 
 Funções especializadas
