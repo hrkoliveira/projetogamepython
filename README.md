@@ -41,6 +41,7 @@ Sinta-se à vontade para contribuir com este projeto! Se você tiver sugestões 
 🔧 Tecnologias usadas:
 
 🐍 Python 3.x
+
 🔀 Biblioteca random
 
 ## Autor
