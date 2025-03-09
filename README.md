@@ -1,16 +1,18 @@
-# Jogo da Forca em Python 🕹️
+# 🎮 Jogo da Forca em Python
 
-## Descrição
+Bem-vindo ao **Jogo da Forca**, um clássico jogo de adivinhação de palavras feito em Python! 🔥
 
-Embarque em uma aventura de adivinhação com este clássico Jogo da Forca! Desenvolvido em Python, este jogo desafia você a descobrir a palavra oculta letra por letra, antes que suas chances se esgotem. Prepare-se para testar seu vocabulário e sua intuição! 🧠
+## 📌 Como funciona?
+- O jogo escolhe aleatoriamente uma palavra.
+- Você deve tentar adivinhar as letras.
+- Se errar muitas vezes, você perde! ❌
+- Se acertar todas as letras antes das tentativas acabarem, você vence! 🎉
 
-## Como Jogar
+## 🚀 Como jogar?
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/hrkoliveira/projetogamepython.git
 
-1.  **Clone o repositório:**
-
-    ```
-    git clone https://github.com/hrkoliveira/projetogamepython.git
-    ```
 2.  **Navegue até a pasta do projeto:**
 
     ```
@@ -35,6 +37,10 @@ Embarque em uma aventura de adivinhação com este clássico Jogo da Forca! Dese
 ## Contribuição
 
 Sinta-se à vontade para contribuir com este projeto! Se você tiver sugestões de melhorias, novas palavras para adicionar ou correções de bugs, abra uma issue ou envie um pull request. Sua colaboração é muito bem-vinda! 🙌
+
+🔧 Tecnologias usadas:
+🐍 Python 3.x
+🔀 Biblioteca random
 
 ## Autor
 
