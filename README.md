@@ -34,6 +34,36 @@ Bem-vindo ao **Jogo da Forca**, um clássico jogo de adivinhação de palavras f
 *   **Contador de chances:** Acompanhe suas chances restantes para planejar suas próximas jogadas com sabedoria. 🤔
 *   **Feedback visual:** O jogo fornece feedback visual claro sobre as letras corretas e incorretas, ajudando você a tomar decisões informadas. 👀
 
+  Versão 2 (com melhorias visuais)
+python jogo_forca_v2.py
+
+text
+
+4. **Versão 2 inclui:**
+- Display da forca em diferentes estágios
+- Lista de letras tentadas
+- Mensagens de erro mais descritivas
+- Interface mais amigável
+
+## Funcionalidades
+
+### Versão 1
+- Lista de palavras variada
+- Contador de chances básico
+- Verificação de letras repetidas
+
+### **Versão 2 (Melhorada)**
+- **Sistema visual completo** com 6 estágios da forca 🖼️
+- **Histórico de tentativas** visível ✅
+- **Feedback contextualizado**:
+- Aviso sobre letras repetidas
+- Destaque para letras corretas
+- Representação gráfica do progresso
+- **Código refatorado** com:
+- Funções especializadas
+- Tratamento de edge cases
+- Saídas de jogo mais intuitivas
+
 ## Contribuição
 
 Sinta-se à vontade para contribuir com este projeto! Se você tiver sugestões de melhorias, novas palavras para adicionar ou correções de bugs, abra uma issue ou envie um pull request. Sua colaboração é muito bem-vinda! 🙌
