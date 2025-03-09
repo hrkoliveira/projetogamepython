@@ -39,6 +39,7 @@ Bem-vindo ao **Jogo da Forca**, um clássico jogo de adivinhação de palavras f
 Sinta-se à vontade para contribuir com este projeto! Se você tiver sugestões de melhorias, novas palavras para adicionar ou correções de bugs, abra uma issue ou envie um pull request. Sua colaboração é muito bem-vinda! 🙌
 
 🔧 Tecnologias usadas:
+
 🐍 Python 3.x
 🔀 Biblioteca random
 
