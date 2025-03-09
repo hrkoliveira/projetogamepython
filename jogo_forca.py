@@ -71,4 +71,4 @@ def game():
         # bloco main 
 if __name__ == "__main__":
     game()
-    print("\nParabéns, voc~e está aprendendo a programar\n")
+    print("\nParabéns, você Acertou!!!!\n")
